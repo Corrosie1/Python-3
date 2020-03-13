@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8433445-35cd-401a-b134-e82114df36e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XkSkw7uZQv1g8IY0c6GQUIwQ6N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MemoryGame_V3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8433445-35cd-401a-b134-e82114df36e4" name="Default Changelist" comment="" />
+      <created>1581588745685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581588745685</updated>
+      <workItem from="1581588753270" duration="44070000" />
+      <workItem from="1582625052198" duration="676000" />
+      <workItem from="1582789314156" duration="993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="262" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581590974048">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="424" y="262" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1581590974048" />
+    <state x="698" y="354" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581617167445">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="698" y="354" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1581617167445" />
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom" timestamp="1582649340906">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1582649340906" />
+    <state width="1878" height="344" key="GridCell.Tab.0.center" timestamp="1582649340905">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1582649340905" />
+    <state width="1878" height="344" key="GridCell.Tab.0.left" timestamp="1582649340905">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1582649340905" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right" timestamp="1582649340906">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1582649340906" />
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom" timestamp="1581787545865">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1581787545865" />
+    <state width="1878" height="423" key="GridCell.Tab.1.center" timestamp="1581787545864">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1581787545864" />
+    <state width="1878" height="423" key="GridCell.Tab.1.left" timestamp="1581787545864">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1581787545864" />
+    <state width="1878" height="423" key="GridCell.Tab.1.right" timestamp="1581787545865">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1581787545865" />
+    <state x="637" y="432" key="com.intellij.ide.util.TipDialog" timestamp="1582789314517">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="637" y="432" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1582789314517" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1581672471534">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1581672471534" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MemoryGame_V3$Main.coverage" NAME="Main Coverage Results" MODIFIED="1582625352710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
